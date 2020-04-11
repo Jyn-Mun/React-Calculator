@@ -1,0 +1,11 @@
+.calcDisplayDiv {
+  background-color: lavenderblush;
+  width: 100%;
+  border: 8px solid #ecaacb;
+  padding-right: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-style: groove;
+  text-align: end;
+  box-shadow: 0 5px 15px 0px rgba(0,0,0,.1);
+}
