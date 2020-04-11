@@ -1,0 +1,20 @@
+.keyWrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  border-bottom: 8px solid #ecaacb;
+  border-right: 8px solid #ecaacb;
+  border-left: 8px solid #ecaacb;
+  border-top: 10px solid crimson;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  overflow: hidden;
+  background-color: #e8a7c8;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* box-shadow: 0 5px 15px 0px rgba(0,0,0,.1); */
+  border-style: groove;
+}
